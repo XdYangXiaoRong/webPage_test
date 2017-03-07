@@ -1,0 +1,44 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	background-color:#eee;
+}
+.header1{
+	width:1200px;
+	background-image:url("/Users/qingyun/Desktop/课堂/res/g.jpg");
+}
+.header2{
+	width:1200px;
+	height:40px;
+	line-height: 40px;
+	background-color:lightgrey;
+}
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration:none;
+}
+.header2 ul li {
+	float:left;
+	margin-left:20px;
+}
+.header2 ul li a{
+ 	color:#666;
+ 	font-size:14px;
+
+}
+.header2 ul li a:hover{
+ 	color:#666;
+ 	font-size:14px;
+ 	text-decoration: underline;
+}
+.header2 ul li span a{
+	color:#F20044;
+	font-size:14px;
+}
+.header2 ul li span img{
+	margin-top: 5px;
+}
